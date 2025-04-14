@@ -1,6 +1,6 @@
   1. Using the GitHub Web Interface to access and launch the project
 
-- Navigate to the repository on https://github.com/Eno236/BlusaltA
+- Navigate to the repository on https://github.com/Eno236/BlusaltA/tree/master
 - Browse through the repository's file structure to find the file you want (i.e cypress)
 - Click on the code dropdown button and click on "Download Zip" to download a copy of the file:
 - Extract the zip file to access the cypress folder
